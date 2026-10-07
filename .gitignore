@@ -24,3 +24,8 @@ yarn-error.log*
 /test-results/
 /playwright-report/
 /playwright/.cache/
+
+# Jenkins / npm troubleshooting logs pulled into the repo root
+*-debug-0.log
+jenkins_log.log
+.npm/
